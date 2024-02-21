@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 const Newslater = () => {
   return (
     <div className="bg-gradient-to-r from-cyan-300 to-slate-500 p-4">
